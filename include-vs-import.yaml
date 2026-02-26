@@ -3,4 +3,5 @@
   connection: local
   roles:
    - include-import
-  when: os == "RedHat"
+
+
